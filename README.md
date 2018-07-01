@@ -1,3 +1,3 @@
 # Probabilistic_MNIST
 
-> ![]movie.gif)
+> ![]movie.gif
