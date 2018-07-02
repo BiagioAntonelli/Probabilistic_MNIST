@@ -10,7 +10,7 @@ Below an example of how our prediction and confidence level change if we add an 
 In the example below, we predict the label of the digit 100 times with dropout activated, and then show the mean and the standard deviation of the softmax output. We then add Gaussian Noise to the image and make the predictions again, this time we can notice that the model is less confident in its predictions...
 
 <p align="center">
-  <img width="450" height="300" src= movie1.gif>
+  <img width="500" height="250" src= movie1.gif>
 </p>
 
 
